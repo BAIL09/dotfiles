@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gonzaguebeyeler@gmail.com
+	name = Gonzague BEYELER
